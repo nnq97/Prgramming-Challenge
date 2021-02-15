@@ -1,0 +1,14 @@
+[
+	{
+		"id": "c-1",
+		"type": "compressor"
+	},
+	{
+		"id": "c-2",
+		"type": "compressor"
+	},
+	{
+		"id": "cs-1",
+		"type": "combi-separator"
+	}
+]
